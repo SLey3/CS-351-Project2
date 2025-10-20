@@ -1,3 +1,5 @@
+from algorithms import astar, dijkstra, gbfs
+
 import pandas as pd
 import click
 
